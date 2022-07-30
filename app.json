@@ -1,0 +1,17 @@
+{
+    "name": "Deploy",
+    "description": "",
+    "keywords": [
+      "telegram",
+      "best",
+      "bot"
+    ],
+    "env": {
+      "CONFIG_FILE_URL": {
+        "description": "",
+        "value": "",
+        "required": true
+      }
+    },
+    "stack": "container"
+  }
